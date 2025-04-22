@@ -1,3 +1,4 @@
+
 SENTENCE_START : str = "Panaversity is fun. I Learned to program and used Python to make my "
 
 def main():
