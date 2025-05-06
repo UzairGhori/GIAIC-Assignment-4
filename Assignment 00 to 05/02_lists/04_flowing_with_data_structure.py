@@ -17,4 +17,6 @@ def main():
 
     print("List after : ", my_list)
 
-    
+
+if __name__ == "__main__" :
+    main()
